@@ -1,53 +1,57 @@
-# Hi there, I'm YUKI (penguin2002) 👋
+# NLP & ML Innovations, Research, & Community 🚀
 
+## NLP & ML Researcher | Engineering Design | Base in Tokyo, Japan 🌏
+
+Empowering Life through Technology | Evolving Technology through Creation.
+
+---
+
+#### Socials
 <p align="left">
-  <img src="https://img.shields.io/badge/Location-Tokyo,%20Japan-F44336?style=flat-square&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Role-NLP%20%26%20ML%20Researcher-0078D4?style=flat-square" />
+  <a href="https://github.com/penguin2002"><img src="https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="你的LinkedIn链接"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="你的X链接"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="mailto:cly20020106@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🚀 Headline
-> **Empowering Life through Technology | Evolving Technology through Creation**
-> 
-> *A passionate researcher and developer focused on the intersection of human language and machine intelligence. I believe that code is not just logic, but a medium for creative problem-solving.*
+Dedicated Researcher and Engineer specializing in Natural Language Processing (NLP) and Machine Learning (ML), with foundation in both theoretical algorithms and practical implementation. Passionate about bridging the gap between scientific research and engineering design to create impactful technology solutions.
+
+* 🎓 **Education Profile:** Graduated from **Zhejiang University** in 2025. Currently enrolled at **Institute of Science Tokyo** majoring in **Engineering Design** (Apr 2026 - Expected Mar 2028).
+* 💻 **Technical Expertise:** Specialized experience in NLP and ML research and development, focusing on large language models (LLMs) and advanced data architectures.
+* 🔬 **Research Lifecycle:** Expertise in full lifecycle research from data acquisition, preprocessing, and exploratory data analysis to complex model training, evaluation, and deployment.
+* 🛠 **Engineering Foundation:** Proficient in Python for computationally intensive tasks, with additional proficiency in Ruby and Java for diverse systems integration and engineering requirements.
 
 ---
 
-### 🛠 Tech Stack & Skills
+#### Skills
 
-#### 🧠 Research & Core
-![NLP](https://img.shields.io/badge/-Natural%20Language%20Processing-333333?style=flat-square&logo=github)
-![ML](https://img.shields.io/badge/-Machine%20Learning-333333?style=flat-square&logo=pytorch)
-![DeepLearning](https://img.shields.io/badge/-Deep%20Learning-333333?style=flat-square)
-
-#### 💻 Programming Languages
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
----
-
-### 📂 Featured Repositories
-*Projects that define my technical journey.*
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🚀 [Your-Project-Name](#) | *Upcoming: A breakthrough NLP implementation.* | `Python` `PyTorch` |
-| 🛠 [Example-Repo](#) | *Description placeholder for your future work.* | `Ruby` `Rails` |
-
----
-
-### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=penguin2002&show_icons=true&theme=transparent" height="150" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=penguin2002&layout=compact&theme=transparent" height="150" alt="languages card" />
+  <img src="https://img.shields.io/badge/NLP-333333?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Machine_Learning-333333?style=for-the-badge&logo=pytorch" />
+  <img src="https://img.shields.io/badge/Deep_Learning-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-00C4CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](你的LinkedIn链接)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:你的邮箱地址)
+⚡ Understanding requirements of LLM fine-tuning and adaptation for specialized domain expertise within engineering contexts.
 
-*"Code is temporary, but the impact is forever."*
+🔷 Developed efficient data processing pipelines for large-scale structured and unstructured text data.
+
+🔷 Actively contributing to the open-source community to advance NLP and ML innovation.
+
+🙂 Worked with cross-functional teams to integrate advanced models into practical, user-centric products.
+
+---
+
+*"Code is the paintbrush of the digital architect."*
